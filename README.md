@@ -1,8 +1,11 @@
 **Title: Simple React Todo App**
 
+
 **Description:**
 
-This is a simple React Todo application that I developed as a learning project to improve my understanding of state management in React. This application serves as a practical demonstration of how to create, manage, and manipulate state within a React application.
+This is a simple React Todo application that I developed as a learning project to improve my understanding of state management in React. You can access the live preview of the app [here](https://precious-dusk-5fafe7.netlify.app/). This application serves as a practical demonstration of how to create, manage, and manipulate state within a React application.
+
+
 
 **Key Features:**
 
